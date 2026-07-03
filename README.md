@@ -1,6 +1,6 @@
 # TabDSP Feedback
 
-Bug reports, feature requests, and feedback for **TabDSP** — a per-tab professional audio DSP extension for Firefox.
+Bug reports, feature requests, and feedback for **TabDSP** — a per-tab professional audio DSP extension for Chrome and Firefox.
 
 ## What is TabDSP?
 
@@ -15,14 +15,17 @@ TabDSP brings broadcast-quality audio processing directly to your browser:
 
 ## Download
 
-**Latest version:** [TabDSP v0.2.0](https://johnkessler.github.io/tabdsp/releases/)
+**Latest version: TabDSP v1.0.0**
+
+- **Firefox:** [Firefox Add-ons store (AMO)](https://addons.mozilla.org/firefox/addon/tabdsp/)
+- **Chrome:** [Chrome Web Store](https://chromewebstore.google.com/detail/tabdsp-eq-+-dynamics/jcmeelliekpkeljconclcdmpfaajlbba)
 
 ## Reporting Issues
 
 Please [open an issue](https://github.com/JohnKessler/tabdsp-feedback/issues/new) and include:
 
-1. **Firefox version** (check `about:support`)
-2. **TabDSP version** (check `about:addons`)
+1. **Browser and version** (Firefox: `about:support` · Chrome: menu → Help → About Google Chrome)
+2. **TabDSP version** (Firefox: `about:addons` · Chrome: `chrome://extensions`)
 3. **Website** where the issue occurs
 4. **Steps to reproduce** the problem
 5. **Expected vs actual behavior**
@@ -34,4 +37,4 @@ Feature requests are welcome! [Open an issue](https://github.com/JohnKessler/tab
 
 ## Status
 
-TabDSP is currently in **pre-beta**. Expect rough edges. Your feedback helps shape the product.
+TabDSP **v1.0.0 is live** on the Firefox Add-ons store and the Chrome Web Store. Your feedback helps shape what comes next.
